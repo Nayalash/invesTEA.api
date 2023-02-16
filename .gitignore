@@ -1,6 +1,6 @@
-/.idea
-/external/key.txt
-
+.idea
+**/key.txt
+**/.DS_Store
 
 
 
